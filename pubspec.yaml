@@ -48,7 +48,6 @@ dependencies:
   bip32: ^2.0.0
   bip39: ^1.0.6
   asn1lib: ^1.5.5
-
   pointycastle: ^3.9.1
   convert: ^3.1.2
   crypto: ^3.0.6
@@ -56,6 +55,8 @@ dependencies:
   hex: ^0.2.0
   dart_ping: ^9.0.1
   dart_ping_ios: ^4.0.2
+  solana: ^0.31.2+1
+  ed25519_hd_key: ^2.2.0
 
 dev_dependencies:
   flutter_test:
